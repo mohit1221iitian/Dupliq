@@ -63,7 +63,7 @@ Visit `http://localhost:8501` in your browser.
 
 > User-friendly interface to check for duplicate questions:
 
-![Dupliq Screenshot](https://raw.githubusercontent.com/mohit1221iitian/Dupliq/main/assets/screenshot.png)
+![Dupliq Screenshot](https://raw.githubusercontent.com/mohit1221iitian/Dupliq/main/assets/assets/)
 
 ---
 
