@@ -75,7 +75,7 @@ Dupliq/
 ├── helper.py             # NLP processing and features
 ├── rf_w2v_model1.pkl     # Trained Random Forest model
 ├── requirements.txt      # Project dependencies
-|- 
+|- xgb_w2v_model1.pkl     
 ```
 
 ---
